@@ -1,0 +1,21 @@
+{
+  "name": "pizzas-del-abismo",
+  "version": "1.0.0",
+  "description": "bot para pedir pizzas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "microsoft",
+    "abismodenull"
+  ],
+  "author": "jdonsan",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.2.1",
+    "moment": "^2.14.1",
+    "restify": "^4.1.1"
+  }
+}
